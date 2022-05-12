@@ -39,7 +39,7 @@ import run.halo.app.utils.FileUtils;
 
 /**
  * The method executed after the application is started.
- *
+ *  监听启动程序，优先级最高！
  * @author ryanwang
  * @author guqing
  * @date 2018-12-05
